@@ -1,0 +1,168 @@
+
+body{
+    margin: 0;
+}
+
+#pagename-nav{
+    background-color: #333333;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 100%;
+}
+
+#pagename-nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+#pagename-nav a{
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#pagename-nav a:hover{
+    background-color: #555555;
+    border-radius: 5px;
+}
+
+.name-div{
+    padding: 30px;
+    background-color: #CCCCCC;
+}
+
+.name-div h2{
+    margin-left: 25px;
+}
+
+.profile-div{
+    margin-left: 30px;
+}
+
+.profile-div p{
+    margin-left: 25px;
+}
+
+.music-div h2{
+    margin-left: 30px;
+    background-color: rgb(25, 63, 255);
+    color: #FFFFFF;
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.music-div img{
+    width: 70%;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.music-div p{
+    margin-left: 40px;
+}
+
+.music-div ul{
+    margin-left: 40px;
+}
+
+.anime-div h2{
+    margin-left: 30px;
+    background-color: red;
+    color: #FFFFFF;
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.anime-div img{
+    width: 70%;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.anime-div p{
+    margin-left: 40px;
+}
+
+.manga-div h2{
+    margin-left: 30px;
+    background-color: rgb(0, 157, 255);
+    color: #FFFFFF;
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.manga-div img{
+    width: 70%;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.manga-div p{
+    margin-left: 40px;
+}
+
+.from-div h2{
+    margin-left: 30px;
+    background-color: rgb(0, 255, 0);
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.from-div img{
+    width: 70%;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.from-div p{
+    margin-left: 40px;
+}
+
+.summer-div h2{
+    margin-left: 30px;
+    background-color: orange;
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.summer-div img{
+    width: 70%;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.summer-div p{
+    margin-left: 40px;
+}
+
+.music-body{
+    background-color: #7dfdff;
+}
+
+.anime-body{
+    background-color: #ffc391;
+}
+
+.manga-body{
+    background-color: #a5eaff;
+}
+
+.from-body{
+    background-color: #b4ffba;
+}
+
+.summer-body{
+    background-color: #ffeab8;
+}
